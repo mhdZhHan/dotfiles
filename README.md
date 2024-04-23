@@ -18,6 +18,26 @@ pacman -S git
 pacman -S stow
 ```
 
+## Neovim Dependencies
+
+To use the Neovim configuration successfully, install the following:
+
+### ripgrep
+
+Ripgrep is required for the Telescope fuzzy live_grep search functionality in Neovim.
+
+```
+pacman -S ripgrep
+```
+
+### unzip
+
+Unzip is required for unzipping archives during lazy installation processes.
+
+```
+pacman -S unzip
+```
+
 ## Installation
 
 First, check out the dotfiles repo in your $HOME directory using git
