@@ -1,0 +1,35 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
+    "window.menuBarVisibility": "toggle",
+    "workbench.iconTheme": "vscode-icons",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.density.editorTabHeight": "compact",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.wordWrap": "on",
+    "reactSnippets.settings.importReactOnTop": false,
+    "reactSnippets.settings.prettierEnabled": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Vitesse Dark",
+    "workbench.productIconTheme": "icons-carbon",
+    "git.autofetch": true,
+    "editor.fontFamily": "OperatorMonoSSmLig Nerd Font,'Droid Sans Mono', 'monospace', monospace",
+    "cSpell.userWords": [
+        "cuid"
+    ],
+    "go.goroot": "/home/mohammedsh/Developer/go",
+    "go.gopath": "/home/mohammedsh/Developer/go"
+}

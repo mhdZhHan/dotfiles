@@ -96,6 +96,10 @@ alias gsu='git branch --set-upstream-to=origin/main'
 # -----------------------------------
 # Development Environment Setup
 # -----------------------------------
+# GO
+export GOROOT=$HOME/Developer/go
+export PATH=$PATH:$GOROOT/bin
+
 # NVM (Node Version Manager)
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
