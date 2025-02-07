@@ -75,7 +75,7 @@ alias c='clear'
 alias lsd='ls -d */'
 alias lt='ls -lt'
 alias la='ls -A'
-alias codium='codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland' # VSCodium wayland mode
+alias codium='codium --enable-features=UseOzonePlatform --ozone-platform=wayland --enable-wayland-ime' # VSCodium wayland mode
 
 # Git Aliases
 alias gs='git status'
