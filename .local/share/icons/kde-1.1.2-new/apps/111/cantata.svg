@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="cantata.svg"
+   id="svg50"
+   version="1.1"
+   height="128"
+   width="128">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:snap-others="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg50"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="53.395271"
+     inkscape:cx="81.788754"
+     inkscape:zoom="4.9663203"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-page="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     showgrid="false"
+     id="namedview52"
+     inkscape:window-height="837"
+     inkscape:window-width="1600"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <inkscape:grid
+       id="grid911"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs18">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y2="503.79999"
+       y1="543.79999"
+       id="a">
+      <stop
+         id="stop2"
+         stop-color="#2a2c2f" />
+      <stop
+         id="stop4"
+         stop-color="#424649"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="516.79999"
+       y1="530.79999"
+       id="b">
+      <stop
+         id="stop7"
+         stop-color="#ee643a" />
+      <stop
+         id="stop9"
+         stop-color="#fe9473"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       y2="-525.79999"
+       y1="-521.79999"
+       id="c"
+       xlink:href="#a" />
+    <linearGradient
+       gradientTransform="translate(-384.57,-499.8)"
+       gradientUnits="userSpaceOnUse"
+       x2="422.57001"
+       y2="537.79999"
+       x1="408.57001"
+       y1="523.79999"
+       id="d">
+      <stop
+         id="stop13"
+         stop-color="#292c2f" />
+      <stop
+         id="stop15"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g1488">
+    <path
+       id="path1262"
+       style="opacity:0.99;fill:#625e5b;fill-opacity:1;fill-rule:evenodd;stroke-width:3.325;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 120,64 A 56,56 0 0 1 64,120 56,56 0 0 1 8,64 56,56 0 0 1 64,8 56,56 0 0 1 120,64 Z" />
+    <ellipse
+       style="opacity:0.99;fill:#ffffff;fill-opacity:0.99221784;fill-rule:evenodd;stroke:none;stroke-width:2.05729;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       id="path1305"
+       cx="64"
+       cy="64.020714"
+       rx="46"
+       ry="45.979282" />
+    <path
+       d="M 71.25,32.75 68.009766,69.995605 A 19.25,13.125 0 0 0 57.25,67.75 19.25,13.125 0 0 0 38,80.875 19.25,13.125 0 0 0 57.25,94 19.25,13.125 0 0 0 76.5,80.875 L 78.25,45 c 0,0 10.5,7 10.5,12.25 0,2.916667 -5.729497,4.123018 -5.25,7 1.75,10.5 12.53302,1.801873 14,-7 1.75,-10.5 -12.25,-14 -26.25,-24.5 z"
+       style="opacity:0.99;fill:#000000;fill-opacity:0.2;fill-rule:evenodd;stroke-width:3.325;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       id="path1300" />
+    <path
+       id="path1266"
+       style="opacity:0.99;fill:#00418a;fill-opacity:1;fill-rule:evenodd;stroke-width:3.325;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 69.25,30.75 66.009766,67.995605 A 19.25,13.125 0 0 0 55.25,65.75 19.25,13.125 0 0 0 36,78.875 19.25,13.125 0 0 0 55.25,92 19.25,13.125 0 0 0 74.5,78.875 L 76.25,43 c 0,0 10.5,7 10.5,12.25 0,2.916667 -5.729497,4.123018 -5.25,7 1.75,10.5 12.53302,1.801873 14,-7 1.75,-10.5 -12.25,-14 -26.25,-24.5 z" />
+    <path
+       id="path1302"
+       style="opacity:0.99;fill:#000000;fill-opacity:0.249027;fill-rule:evenodd;stroke-width:3.36797;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 62.931641 16 A 46.948694 47 0 0 0 16 63 A 46.948694 47 0 0 0 62.949219 110 A 46.948694 47 0 0 0 63.458984 109.99609 A 45.947859 46 0 0 1 18.001953 64 A 45.947859 46 0 0 1 63.949219 18 A 45.947859 46 0 0 1 109.89453 63.521484 A 46.948694 47 0 0 0 109.89648 63 A 46.948694 47 0 0 0 62.949219 16 A 46.948694 47 0 0 0 62.931641 16 z " />
+  </g>
+</svg>

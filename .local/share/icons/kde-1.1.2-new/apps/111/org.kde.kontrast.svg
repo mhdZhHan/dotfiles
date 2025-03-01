@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg24"
+   version="1.1"
+   viewBox="0 0 128 128"
+   sodipodi:docname="org.kde.kontrast.svg"
+   width="128"
+   height="128"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview20"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="3.7864583"
+     inkscape:cx="4.1790945"
+     inkscape:cy="27.119768"
+     inkscape:current-layer="svg24" />
+  <defs
+     id="defs14">
+    <linearGradient
+       id="linearGradient4225"
+       x1="15.233"
+       x2="39.609001"
+       y1="11.995"
+       y2="36.369999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop2"
+         offset="0" />
+      <stop
+         id="stop4"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter934"
+       x="-1.0166061e-07"
+       y="-5.0865051e-08"
+       width="1.0000002"
+       height="1.0000001"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur936"
+         stdDeviation="8.4775089e-07" />
+    </filter>
+    <filter
+       id="filter938"
+       x="-1.0178975e-07"
+       y="-5.0865054e-08"
+       width="1.0000002"
+       height="1.0000001"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur940"
+         stdDeviation="8.4775089e-07" />
+    </filter>
+  </defs>
+  <g
+     id="g906">
+    <path
+       id="circle16"
+       d="M 23.986328,44 A 20,20 0 0 0 24,44 20,20 0 0 0 44,24 20,20 0 0 0 24,4 20,20 0 0 0 23.988281,4 Z"
+       fill="#39fea0"
+       filter="url(#filter934)"
+       transform="scale(2.6666667)" />
+    <path
+       id="path915"
+       d="m 23.986328,44 0.002,-40 A 20,20 0 0 0 4,24 20,20 0 0 0 23.986328,44 Z"
+       fill="#1f4855"
+       filter="url(#filter938)"
+       transform="scale(2.6666667)" />
+    <path
+       id="path869"
+       d="m 63.726562,75.494793 h 12.718752 l 7.645832,19.645832 h 8.265627 L 67.643229,31.406251 h -3.916667 l 0.187493,8.265624 10.130209,28.708334 h -10.31771 z"
+       fill="#1f4855"
+       sodipodi:nodetypes="cccccccccc"
+       style="stroke-width:2.66667" />
+    <path
+       id="path875"
+       d="m 63.964047,75.485996 -2e-6,-7.105787 H 53.95573 l 9.958325,-28.708334 0.05568,-8.265624 H 60.445314 L 35.643228,95.140625 h 8.093753 l 7.552082,-19.645832 z"
+       fill="#39fea0"
+       sodipodi:nodetypes="cccccccccc"
+       style="stroke-width:2.66667" />
+  </g>
+</svg>
