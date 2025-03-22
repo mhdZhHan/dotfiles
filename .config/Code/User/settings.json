@@ -1,0 +1,47 @@
+{
+  "window.titleBarStyle": "native",
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "top",
+  "editor.wordWrap": "on",
+  "window.customTitleBarVisibility": "never",
+  "window.density.editorTabHeight": "compact",
+  "editor.fontFamily": "Fira Code,OperatorMonoSSmLig Nerd Font,'Droid Sans Mono', 'monospace', monospace",
+  "workbench.iconTheme": "vscode-icons",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "window.zoomLevel": 1.3,
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "editor.experimental.preferTreeSitter.typescript": true,
+  "reactSnippets.settings.importReactOnTop": false,
+  "reactSnippets.settings.prettierEnabled": true,
+  "workbench.colorTheme": "Atom One Darker"
+}
